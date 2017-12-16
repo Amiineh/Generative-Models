@@ -55,8 +55,6 @@ def autoEncode(x, cond, hidden_size, z_size):
 
     loss = tf.reduce_mean(likelihood - DKL)
 
-    return x_hat, loss
-
-
+    return x_hat, loss, q_mean, q_sigma
 
 
