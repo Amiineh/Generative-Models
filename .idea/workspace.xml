@@ -2,62 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="837c8003-2a5b-4786-a5e6-ab675dbcade6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/CGAN.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cgan2.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cvae2.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/0_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/0_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/0_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/0_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/0_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/1_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/1_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/1_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/1_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/1_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/2_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/2_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/2_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/2_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/2_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/3_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/3_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/3_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/3_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/3_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/4_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/4_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/4_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/4_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/4_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/5_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/5_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/5_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/5_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/5_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/6_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/6_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/6_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/6_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/6_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/7_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/7_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/7_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/7_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/7_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/8_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/8_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/8_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/8_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/8_5.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/9_1.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/9_2.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/9_3.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/9_4.png" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/results/CVAE/9_5.png" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CVAE.py" afterPath="$PROJECT_DIR$/CVAE.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/main.py" afterPath="$PROJECT_DIR$/main.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -102,7 +47,7 @@
       <file leaf-file-name="cgan2.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/cgan2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
+            <state relative-caret-position="471">
               <caret line="94" column="82" lean-forward="false" selection-start-line="94" selection-start-column="82" selection-end-line="94" selection-end-column="82" />
               <folding>
                 <element signature="e#0#23#0" expanded="true" />
@@ -180,9 +125,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="22" />
     <option name="width" value="1280" />
-    <option name="height" value="721" />
+    <option name="height" value="800" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -220,6 +164,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -486,14 +431,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="22" width="1280" height="721" extended-state="1" />
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25119236" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18767123" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5684931" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5506849" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2536349" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32876712" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -596,7 +541,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/cgan2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
+        <state relative-caret-position="471">
           <caret line="94" column="82" lean-forward="false" selection-start-line="94" selection-start-column="82" selection-end-line="94" selection-end-column="82" />
           <folding>
             <element signature="e#0#23#0" expanded="true" />
